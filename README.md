@@ -5,9 +5,13 @@ React Todo List - Practice Project
 This Todo List application is a practice project focused on mastering core React concepts including:
 
 ✅ React Hooks - useState, useEffect, useRef
+
 ✅ Component Props - Passing data between components
+
 ✅ Form Handling - Controlled inputs and form submission
+
 ✅ DOM Manipulation - Using refs for direct DOM access
+
 ✅ List Management - CRUD operations for todo items
 
 🛠️ Tech Stack
@@ -24,8 +28,11 @@ Core Dependencies
 Key Features
 
 🔹 Add, Edit, and Delete todos
+
 🔹 Persistent Focus management with useRef
+
 🔹 Form Validation and controlled components
+
 🔹 Clean UI with Font Awesome icons
 
 🚀 Key Learning Points
